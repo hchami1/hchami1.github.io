@@ -1,0 +1,82 @@
+{
+  "main": {
+    "name": "Hadi Chami",
+    "occupation": "Senior Software Developer",
+    "description": "with 8+ years of Professional Development Experience",
+    "image": "profile.jpg",
+    "bio": "I'm a Senior Software Developer with over eight years of professional development and management experience. Experienced in building end-user applications in multiple different languages, environments, and architectures.",
+    "contactmessage": "Feel free to contact me.",
+    "email": "hchami11@gmail.com",
+    "phone": "704-712-2851",
+    "address": {
+      "street": "215 Broadleaf Dr",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28037"
+    },
+    "website": "http://www.hadichami.com",
+    "resumedownload": "hadi-chami-resume.pdf",
+    "social": [{
+        "name": "facebook",
+        "url": "http://facebook.com/hadi.chami.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/hchami11",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/hadi-chami-002234131",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/hchami1",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "hello world",
+    "education": [{
+      "school": "University of North Carolina at Charlotte",
+      "degree": "Bachelor of Science - Computer Engineering",
+      "graduated": "June 2012",
+      "description": ""
+    }],
+    "work": [{
+        "company": "LEAD Technologies Inc.",
+        "title": "Developer Support Manager ",
+        "years": "2013 - Present",
+        "description": "Responsible for managing the Support and Documentation departments totaling 12+ developers onshore and offshore. Designed, managed, and developed multiple projects while managing the departments, Created project plans, scope documents, statement of works, schedules, and forecasts. Provided timely communications on the impact of the changes and decisions. Developed best practices and tools for project execution and management. Advised other departments as a subject matter expert in various technical areas."
+      },
+      {
+        "company": "LEAD Technologies Inc.",
+        "title": "Developer Support Engineer ",
+        "years": "2012 - 2013",
+        "description": "Supported customer development projects over 5 different programming languages. Assisted with development on internal utilities and projects to increase productivity and efficiency."
+      }
+    ],
+    "languages": ["C# .NET", "SQL", "Java", "HTML5/CSS", "JavaScript", "VB.NET", "Visual Basic", "C", "C++"],
+    "frameworks": [".NET Core", ".NET Framework", "ASP.NET", "Entity Framework", "Spring", "React", "MVC"],
+    "tools": ["C# .NET", "SQL", "Java", "HTML5/CSS", "JavaScript", "VB.NET", "Visual Basic", "Objective-C", "C | C++"],
+    "platforms": ["Windows", "Linux", "Docker", "Azure", "AWS"]
+  },
+  "portfolio": {
+    "projects": [{
+        "title": "Charlotte Colts Baseball",
+        "category": "Travel Little League Site",
+        "image": "clt-colts-baseball.png",
+        "url": "https://cltcoltsbaseball.com"
+      },
+      {
+        "title": "This Site",
+        "category": "My website portfolio",
+        "image": "hadi-chami.png",
+        "url": "https://hadichami.com"
+      }
+    ]
+  }
+}
